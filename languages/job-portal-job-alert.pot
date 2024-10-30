@@ -1,0 +1,257 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Job Listings "
+"v1.0.0\n"
+"POT-Creation-Date: 2017-05-16 "
+"16:03+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name "
+"<you@example.com>\n"
+"Language-Team: NooTheme "
+"<info@nootheme.com>\n"
+"Report-Msgid-Bugs-To: Translator "
+"Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; "
+"charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n !"
+"= 1;\n"
+"X-Textdomain-Support: yesX-"
+"Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;"
+"esc_html_e;esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-job-alert-hander.php:26
+msgid "Job alert saved"
+msgstr ""
+
+#: includes/class-job-alert-hander.php:47
+#: includes/class-job-alert-hander.php:107
+msgid ""
+"There's an unknown error. Please "
+"retry or contact Administrator."
+msgstr ""
+
+#: includes/class-job-alert-hander.php:53
+msgid ""
+"Sorry, you can't post job alert."
+msgstr ""
+
+#: includes/class-job-alert-hander.php:59
+#: includes/class-job-alert-hander.php:81
+msgid ""
+"Sorry, you can't edit this job "
+"alert."
+msgstr ""
+
+#: includes/class-job-alert-hander.php:73
+msgid "Your job alert needs a name."
+msgstr ""
+
+#: includes/class-job-alert-hander.php:135
+msgid ""
+"There was a problem deleting this "
+"job alert"
+msgstr ""
+
+#: includes/class-job-alert-hander.php:139
+msgid "Job alert deleted"
+msgstr ""
+
+#: includes/template-functions.php:24
+#: job-listings-job-alert.php:130
+msgid "Job Alert"
+msgstr ""
+
+#: includes/template-functions.php:31
+#: templates/member/manage-job-alert.php:112
+msgid "Edit Job Alert"
+msgstr ""
+
+#: includes/template-functions.php:38
+msgid "Add Job Alert"
+msgstr ""
+
+#: job-listings-job-alert.php:141
+msgid "Job Alert Options"
+msgstr ""
+
+#: job-listings-job-alert.php:146
+msgid "Enable Job Alert"
+msgstr ""
+
+#: job-listings-job-alert.php:159
+msgid "Max Jobs for each Email"
+msgstr ""
+
+#: job-listings-job-alert.php:168
+msgid ""
+"The maximum number of jobs included "
+"in each email. It helps make sure "
+"the email has reasonable length. If "
+"there are more jobs, a read more "
+"link will be added to the end of "
+"email."
+msgstr ""
+
+#: job-listings-job-alert.php:192
+#, php-format
+msgid ""
+"%d+ New Jobs - Job Alert from %s"
+msgstr ""
+
+#: job-listings-job-alert.php:316
+#, php-format
+msgid "Dear %s,"
+msgstr ""
+
+#: job-listings-job-alert.php:317
+#, php-format
+msgid ""
+"We found %d new jobs that match "
+"your criteria."
+msgstr ""
+
+#: job-listings-job-alert.php:329
+#, php-format
+msgid "%s: <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: job-listings-job-alert.php:330
+#, php-format
+msgid "** Location: %s"
+msgstr ""
+
+#: job-listings-job-alert.php:331
+#, php-format
+msgid "** Job Category: %s"
+msgstr ""
+
+#: job-listings-job-alert.php:332
+#, php-format
+msgid "** Job Type: %s"
+msgstr ""
+
+#: job-listings-job-alert.php:333
+msgid "------"
+msgstr ""
+
+#: job-listings-job-alert.php:338
+#, php-format
+msgid "View more jobs: %s"
+msgstr ""
+
+#: job-listings-job-alert.php:342
+msgid "Best regards,"
+msgstr ""
+
+#: job-listings-job-alert.php:350
+msgid "Daily"
+msgstr ""
+
+#: job-listings-job-alert.php:351
+msgid "Weekly"
+msgstr ""
+
+#: job-listings-job-alert.php:352
+msgid "Fortnightly"
+msgstr ""
+
+#: job-listings-job-alert.php:353
+msgid "Monthly"
+msgstr ""
+
+#: templates/form/job-alert-form.php:25
+msgid "Edit Job alert"
+msgstr ""
+
+#: templates/form/job-alert-form.php:27
+msgid "Create a new Job alert"
+msgstr ""
+
+#: templates/form/job-alert-form.php:35
+#: templates/member/manage-job-alert.php:37
+msgid "Alert Name"
+msgstr ""
+
+#: templates/form/job-alert-form.php:45
+msgid "Keywords"
+msgstr ""
+
+#: templates/form/job-alert-form.php:53
+msgid "Job Location"
+msgstr ""
+
+#: templates/form/job-alert-form.php:76
+msgid "Job Category"
+msgstr ""
+
+#: templates/form/job-alert-form.php:99
+msgid "Job Type"
+msgstr ""
+
+#: templates/form/job-alert-form.php:118
+msgid "Email Frequency"
+msgstr ""
+
+#: templates/form/job-alert-form.php:138
+msgid "Save"
+msgstr ""
+
+#: templates/member/manage-job-alert.php:23
+#, php-format
+msgid "You've set up %s job alert"
+msgid_plural ""
+"You've set up %s job alerts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/member/manage-job-alert.php:23
+msgid "You have no job alert"
+msgstr ""
+
+#: templates/member/manage-job-alert.php:28
+#, php-format
+msgid ""
+"The emails will be sent to \"%s\""
+msgstr ""
+
+#: templates/member/manage-job-alert.php:31
+msgid "Create New"
+msgstr ""
+
+#: templates/member/manage-job-alert.php:38
+msgid "Infomation"
+msgstr ""
+
+#: templates/member/manage-job-alert.php:39
+msgid "Schedule"
+msgstr ""
+
+#: templates/member/manage-job-alert.php:40
+msgid "Action"
+msgstr ""
+
+#: templates/member/manage-job-alert.php:78
+msgid "Keywords: "
+msgstr ""
+
+#: templates/member/manage-job-alert.php:116
+msgid "Delete Job Alert"
+msgstr ""
+
+#: templates/member/manage-job-alert.php:123
+msgid "No saved job alerts"
+msgstr ""
